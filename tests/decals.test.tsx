@@ -1,3 +1,5 @@
+/// <reference types="bun" />
+
 import { expect, test } from "bun:test"
 import { Circuit } from "tscircuit"
 import { parseKLELayout } from "../lib/KLELayout"
